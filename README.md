@@ -1133,7 +1133,7 @@ docker run --rm gcr.io/ledgerx-mlops/ledgerx-api:latest ls -lh /app/models/
 **API Docs:** https://ledgerx-api-671429123152.us-central1.run.app/docs  
 **Issues:** https://github.com/Lochan9/ledgerx-mlops-final/issues
 
-**Contact:** lochan2e@gmail.com
+**Contact:** jashbhaveshshah@gmail.com
 
 ---
 
