@@ -1,8 +1,8 @@
 # 🚀 LedgerX - Enterprise Invoice Intelligence Platform
 
 [![Cloud Run](https://img.shields.io/badge/Cloud%20Run-Deployed-success)](https://ledgerx-api-671429123152.us-central1.run.app)
-[![MLOps](https://img.shields.io/badge/MLOps-Complete-blue)](https://github.com/Lochan9/ledgerx-mlops-final)
-[![Accuracy](https://img.shields.io/badge/Accuracy-87%25-green)](https://github.com/Lochan9/ledgerx-mlops-final)
+[![MLOps](https://img.shields.io/badge/MLOps-Complete-blue)](https://github.com/jashshah127/ledgerx-mlops-final)
+[![Accuracy](https://img.shields.io/badge/Accuracy-87%25-green)]([[https://github.com/jashshah127/ledgerx-mlops-final](https://github.com/jashshah127/ledgerx-mlops-final)](https://github.com/jashshah127/ledgerx-mlops-final))
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
 > **Production-grade MLOps platform for automated invoice quality assessment and payment failure prediction**
@@ -476,7 +476,7 @@ Invoke-RestMethod -Uri "$API/metrics" | Select-String "ledgerx_model"
 
 ```powershell
 # Check GitHub Actions history
-Start-Process "https://github.com/Lochan9/ledgerx-mlops-final/actions"
+Start-Process "https://github.com/jashshah127/ledgerx-mlops-final"
 
 # Check automated deployments
 gcloud run revisions list --service=ledgerx-api --region=us-central1 | Select-String "github-actions"
@@ -1128,10 +1128,10 @@ docker run --rm gcr.io/ledgerx-mlops/ledgerx-api:latest ls -lh /app/models/
 
 ## 📞 Support & Resources
 
-**GitHub Repository:** https://github.com/Lochan9/ledgerx-mlops-final  
+**GitHub Repository:** https://github.com/jashshah127/ledgerx-mlops-final 
 **Live System:** https://storage.googleapis.com/ledgerx-dashboard-671429123152/index.html  
 **API Docs:** https://ledgerx-api-671429123152.us-central1.run.app/docs  
-**Issues:** https://github.com/Lochan9/ledgerx-mlops-final/issues
+**Issues:** https://github.com/jashshah127/ledgerx-mlops-final
 
 **Contact:** jashbhaveshshah@gmail.com
 
@@ -1206,7 +1206,7 @@ MIT License - See LICENSE file for details
 
 **⭐ Star this repository if you find it useful!**
 
-**📧 Questions? Open an issue or contact: lochan2e@gmail.com**
+**📧 Questions? Open an issue or contact: jashbhaveshshah@gmail.com**
 
 ---
 
